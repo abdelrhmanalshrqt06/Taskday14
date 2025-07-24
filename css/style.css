@@ -1,0 +1,11 @@
+body {
+  background-color: bisque;
+  margin: 5px;
+  height: 100vh;
+}
+
+.item {
+  height:50px;
+  background-color: tomato;
+  margin: 5px;
+}
